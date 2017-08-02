@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<toolbar>
+	<item id="sep1" type="separator"/>
+	<item id="excel" type="button"  img="excel.png" imgdis="excel_grayed.png" text="Get excel" action="doOnGetExcel" />	
+	<item id="sep3" type="separator"/>
+</toolbar>

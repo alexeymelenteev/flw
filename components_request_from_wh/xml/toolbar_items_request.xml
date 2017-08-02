@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<toolbar>
+	<item id="sep1" type="separator"/>
+	<item id="add" type="button"  img="new.gif" imgdis="new_dis.gif" text="Add Item" action="doOnAddRow" />
+	<item id="sep2" type="separator"/>
+	<item id="save" type="button"  img="save.gif" imgdis="save_dis.gif" text="Save" action="doOnSave" enabled="false" />		
+	<item id="sep3" type="separator"/>
+	<item id="excel" type="button"  img="excel.png" imgdis="excel_grayed.png" text="Get excel" action="doOnGetExcel" />	
+	<item id="sep3" type="separator"/>
+</toolbar>
